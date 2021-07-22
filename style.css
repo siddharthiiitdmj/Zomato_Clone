@@ -23,10 +23,13 @@ nav{
     font-size: 30px;
     font-weight: bold;
 }
+.nav__right{
+    margin: 15px 20px;
+}
 .nav__right a{
     text-decoration: none;
     color: whitesmoke;
-    font-size: 30px;
+    font-size: 15px;
 }
 
 .logo{
