@@ -56,6 +56,14 @@ nav{
     border: none;
     outline: none;
 }
+.searchbox select{
+    width: 50%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-right: 1px solid #7c7c7c;
+    cursor: pointer;
+}
 
 ul{
     list-style-type: none;
