@@ -74,6 +74,7 @@ nav{
     outline: none;
     border-right: 1px solid #7c7c7c;
     cursor: pointer;
+    padding-left: 8px;
 }
 
 .food__type{
