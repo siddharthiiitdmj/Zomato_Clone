@@ -86,7 +86,11 @@ nav{
     outline: none;
     border-right: 1px solid #7c7c7c;
     cursor: pointer;
+<<<<<<< HEAD
     padding-left: 0.8vw;
+=======
+    padding-left: 8px;
+>>>>>>> 8d8b4b328caa2d5e12631312af0040b16fcc07f9
 }
 
 .food__type{
