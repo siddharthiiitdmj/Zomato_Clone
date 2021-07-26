@@ -86,11 +86,8 @@ nav{
     outline: none;
     border-right: 1px solid #7c7c7c;
     cursor: pointer;
-<<<<<<< HEAD
     padding-left: 0.8vw;
-=======
     padding-left: 8px;
->>>>>>> 8d8b4b328caa2d5e12631312af0040b16fcc07f9
 }
 
 .food__type{
@@ -283,5 +280,14 @@ footer p{
         justify-content: space-between;
         align-items: center;
         padding: 1vh 2vw;
+    }
+    .policy__mob .social__links{
+        text-align: center;
+    }
+    .policy__mob .social__links p{
+        margin: 1vh 0 2vh 30vw;
+    }
+    .policy__mob .social__links a{
+        margin-left: 8vw;
     }
 }
