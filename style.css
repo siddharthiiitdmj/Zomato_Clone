@@ -20,7 +20,7 @@ button{
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: 1.7vw;
     cursor: pointer;
-    background-color: blue;
+    background-image: linear-gradient( to right, #af0404 0%, #ff512f 51%, #af0404 100%);
     color: whitesmoke;
     font-size: 1.2vw;
     font-weight: 600;
@@ -102,7 +102,8 @@ nav{
 }
 
 .food__type button:hover{
-    background-color: navy;
+    background-image: linear-gradient( to right, #ff512f 5%, #af0404 45%, #ff512f 90%);
+    text-decoration: none;
 }
 button:active{
     z-index: -8;
@@ -118,6 +119,7 @@ button:active{
 }
 .filter button{
     background-color: rgba(240, 112, 201, 0.1);
+    background-image: none;
     color: #7c7c7c;
     border: 1px solid #7c7c7c;
     font-weight: 300;
@@ -153,6 +155,7 @@ button:active{
 .load__more button{
     opacity: 0.5;
     background-color: whitesmoke;
+    background-image: none;
     color: #7c7c7c;
     border: 1px solid #7c7c7c;
     font-weight: 250;
